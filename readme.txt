@@ -1,4 +1,1 @@
-Git is a distributed version control system.
-Git is free software distributed under the GPL.
-Git has a mutable index called stage.
-Git tracks changes
+这是我的PAT-Basic-Level解法，希望能和大家交流
